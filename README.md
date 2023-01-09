@@ -4,7 +4,7 @@
 - Codename: pixi3_4
 - Brand: Pixi
 - Flavor: 
-- Release Version: 
+- Release Version: user
 - Id: 
 - Incremental: 
 - Tags: 
@@ -12,7 +12,7 @@
 - A/B Device: false
 - Locale: undefined
 - Screen Density: 69 dpi
-- Fingerprint: idk
+- Fingerprint: TCL/4013D/Pixi3-4:4.4.2/KOT49H/v5B1S-0:user/release-keys
 - OTA version: shit
-- Branch: 
-- Repo: main
+- Branch: main
+- Repo: 
