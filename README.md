@@ -1,18 +1,18 @@
 ## 
-- Manufacturer: 
-- Platform: 
-- Codename: 
-- Brand: 
+- Manufacturer: TCL
+- Platform: mt6572
+- Codename: pixi3_4
+- Brand: Pixi
 - Flavor: 
 - Release Version: 
 - Id: 
 - Incremental: 
 - Tags: 
-- CPU Abilist: 
+- CPU Abilist: mt6572 
 - A/B Device: false
 - Locale: undefined
-- Screen Density: undefined
-- Fingerprint: 
-- OTA version: 
+- Screen Density: 69 dpi
+- Fingerprint: idk
+- OTA version: shit
 - Branch: 
-- Repo: __dump
+- Repo: main
