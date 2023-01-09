@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- /system/etc/permissions -->
+<permissions>
+    <library name="com.touchtype.swiftkey.tcl.pgrpa" file=""/>
+</permissions>

@@ -1,0 +1,83 @@
+# All blobs are from "" and are pinned with sha1sum values
+
+# Audio
+
+# Audio-Hardware
+vendor/lib/hw/audio.a2dp.blueangel.so|03365e88a2ca939812f0333be416e25e665ff41d
+
+# Bluetooth
+vendor/lib/hw/bluetooth.blueangel.so|aa0c46a281e9e9d1bb51d4ebf3e7552867fcecc9
+
+# Camera
+
+# Charger
+lib/libshowlogo.so|6f133118a31eb9b3b0a3842dd4a3bf5b5be8c296
+
+# DRM
+
+# DRM-Widevine
+vendor/lib/mediadrm/libwvdrmengine.so|9a042d0de6b39d8fff74b4daf8e514b7298adf3d
+
+# Display-Hardware
+
+# Firmware
+etc/firmware/catcher_filter_1_wg_n.bin|4f2c782439644b752a70c1979344b31adbb8b5a8
+etc/firmware/modem_1_wg_n.img|82fbd07efbfafa422318ab6abdc18832c1feb9b3
+etc/firmware/mt6572_82_patch_e1_0_hdr.bin|26441fe04749890ab809ddf759a8e731c5adb93d
+etc/firmware/mt6572_82_patch_e1_1_hdr.bin|0f3810065836c9c42a522c2b04aa853ac1bd51ab
+etc/firmware/mt6627/mt6627_fm_v1_coeff.bin|6d8504d6932329c7216c8c016fa7351d084a4d33
+etc/firmware/mt6627/mt6627_fm_v1_patch.bin|89c569e38fa50ca09edc13e02ace3efbd1eaa178
+etc/firmware/mt6627/mt6627_fm_v2_coeff.bin|099600a10a944114aac406d136b625fb416dd779
+etc/firmware/mt6627/mt6627_fm_v2_patch.bin|da39a3ee5e6b4b0d3255bfef95601890afd80709
+etc/firmware/mt6627/mt6627_fm_v3_coeff.bin|da39a3ee5e6b4b0d3255bfef95601890afd80709
+etc/firmware/mt6627/mt6627_fm_v3_patch.bin|da39a3ee5e6b4b0d3255bfef95601890afd80709
+etc/firmware/mt6627/mt6627_fm_v4_coeff.bin|da39a3ee5e6b4b0d3255bfef95601890afd80709
+etc/firmware/mt6627/mt6627_fm_v4_patch.bin|da39a3ee5e6b4b0d3255bfef95601890afd80709
+etc/firmware/mt6627/mt6627_fm_v5_coeff.bin|da39a3ee5e6b4b0d3255bfef95601890afd80709
+etc/firmware/mt6627/mt6627_fm_v5_patch.bin|da39a3ee5e6b4b0d3255bfef95601890afd80709
+etc/firmware/S_ANDRO_SFL.ini|5132e82f2dba7df7cab3bf6a1c466aa3197ce0e5
+etc/firmware/WIFI_RAM_CODE|810b8367ed2c4731206563c19e053864855e3167
+etc/firmware/WIFI_RAM_CODE|810b8367ed2c4731206563c19e053864855e3167_E6
+etc/firmware/WIFI_RAM_CODE|810b8367ed2c4731206563c19e053864855e3167_MT6628
+etc/firmware/WIFI_RAM_CODE|810b8367ed2c4731206563c19e053864855e3167_MT6630
+etc/firmware/WIFI_RAM_CODE|810b8367ed2c4731206563c19e053864855e3167_SOC
+etc/firmware/WMT_SOC.cfg|bcb7fbba6010d39bb131160481ee27a536347eb2
+
+# GPS
+
+# GPS-Hardware
+
+# Graphics
+
+# Listen
+
+# Media
+
+# Media-Hardware
+
+# Perf
+
+# Postprocessing
+
+# QMI
+
+# Radio
+
+# Sensors
+
+# Time
+
+# WiFi
+
+# Misc
+vendor/lib/drm/libdrmwvmplugin.so|3ef593f793f9de394bf504bf434f8c72b66530a9
+vendor/lib/libwvdrm_L3.so|a47cdb6c27e91e2a77576aad90eb7d95d248a255
+vendor/lib/libwvm.so|b65ced2ab5699bef7ad107e8aa1162185b960b6b
+vendor/lib/libWVStreamControlAPI_L3.so|be51ff3e06935b3365770e302c7ff049050b8d39
+vendor/pittpatt/models/detection/multi_pose_face_landmark_detectors.7/left_eye-y0-yi45-p0-pi45-r0-ri20.lg_32.bin|e1290debcdb208ed4441d0706518d18e9c424aa3
+vendor/pittpatt/models/detection/multi_pose_face_landmark_detectors.7/nose_base-y0-yi45-p0-pi45-r0-ri20.lg_32.bin|bb4f5f6565f7b9d523f2fa9f6db42d2526a083df
+vendor/pittpatt/models/detection/multi_pose_face_landmark_detectors.7/right_eye-y0-yi45-p0-pi45-r0-ri20.lg_32-2.bin|d03d8bd3733cc2aa33d421c482afb93d1b6a0041
+vendor/pittpatt/models/detection/yaw_roll_face_detectors.6/head-y0-yi45-p0-pi45-r0-ri30.4a-v24.bin|5a6939e49ae3b792b1b02cd213115c7f6274eadb
+vendor/pittpatt/models/detection/yaw_roll_face_detectors.6/head-y0-yi45-p0-pi45-rn30-ri30.5-v24.bin|41e1d568521f1da30ceb130a68c4330e0165a093
+vendor/pittpatt/models/detection/yaw_roll_face_detectors.6/head-y0-yi45-p0-pi45-rp30-ri30.5-v24.bin|3cb78111ceeca18cc128af39285a9ef0b4673b02
+vendor/pittpatt/models/recognition/face.face.y0-y0-22-b-N.bin|29b943398176c9a7abb3a3f5e97d54efc14d1e6a
